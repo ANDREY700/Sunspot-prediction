@@ -43,7 +43,7 @@ shinyUI(fluidPage(
         label = "Differencing",
         value = 0,
         min = 0,
-        max = 3),
+        max = 7),
       sliderInput(
         inputId = "moav",
         label = "Moving-Average",
